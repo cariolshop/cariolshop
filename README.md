@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello World 👋
+- 🌱 I’m currently learning PHP, SEO, and other.
+- visit my first project on https://cariolshop.com
 <!--
 **cariolshop/cariolshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
